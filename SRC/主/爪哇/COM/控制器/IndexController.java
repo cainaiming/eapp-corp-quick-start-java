@@ -20,6 +20,7 @@ import java.util.Map;
 /**
  * 企业内部内部-小程序Quick-Start示例代码 实现了最简单的免密登录（免登）功能
  */
+//qqqq
 @RestController
 public class IndexController {
     private static final Logger bizLogger = LoggerFactory.getLogger(IndexController.class);
